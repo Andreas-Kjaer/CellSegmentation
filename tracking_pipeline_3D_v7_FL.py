@@ -46,8 +46,6 @@ warnings.filterwarnings("ignore", category=RuntimeWarning)
 pd.set_option('mode.chained_assignment', None)
 
 
-#sourceDir = '/media/sjoh4578/My Passport14/'
-#sourceDir = '/Volumes/NanoImager/SprE_strobing_1on6off/Processed/Leftover_data/'
 sourceDir = '/Volumes/BackUp_1/To_do/Tracking/SprE/'
 
 verbose = False
